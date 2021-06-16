@@ -10,7 +10,7 @@ To run the tutorial, you will need simulated NIRCam data and some ancillary file
     >> mkdir Stage2
     >> mkdir ancil
     ```
-3. Download the simulated NIRCam data from the [STScI Box site](https://stsci.app.box.com/s/8r6kqh9m53jkwkff0scmed6zx42g307e/folder/135937142862) and save the files in the `Stage2` directory. The files are large (5 GB total) so the download may take a few minutes.
+3. Download the simulated NIRCam data from the [STScI Box site](https://stsci.app.box.com/s/8r6kqh9m53jkwkff0scmed6zx42g307e/folder/135937142862) and save the files in the `Stage2` directory. The files are large (5 GB total) so the download may take a while. If your internet connection is slow, download the [smallest file only](https://stsci.app.box.com/s/8r6kqh9m53jkwkff0scmed6zx42g307e/file/809097167084) and the tutorial will still work.
 4. Save the [NIRCam ancillary data](https://github.com/ers-transit/hackathon-2021-day2/tree/main/ancil_files/NIRCam) in the `ancil` directory
 
 ## Configuring your python environment:
