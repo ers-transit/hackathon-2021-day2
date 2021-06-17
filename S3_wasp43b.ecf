@@ -29,8 +29,9 @@ isplots_S4  3
 testing_S3  True        #boolean, Set True to produce plots
 
 # Project directory
-topdir      /home/user/
+#topdir      /home/user/
+topdir      /Users/kreidberg/Desktop
 
 # Directories relative to project dir
 datadir     /Data/Simulated_JWST_Data/NIRCam/stage2/
-ancildir    /Data/Simulated_JWST_Data/NIRCam/ancil/
+ancildir    /Data/Simulated_JWST_Data/NIRCam/calibration/
