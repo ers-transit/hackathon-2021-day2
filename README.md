@@ -16,11 +16,12 @@ To run the tutorial, you will need simulated NIRCam data and some ancillary file
 ## Configuring your python environment:
 If you have not already installed Anaconda and set up the `ers-transit` environment, please follow the instructions in the Day 0 tutorial: https://github.com/ers-transit/hackathon-2021-day0/blob/main/hackathon-day0-tutorial.ipynb
 
-## Running the tutorial
+## Starting the tutorial
 1. Clone this repository, in one of two ways:
     - if you have git installed, open a terminal window, navigate to the location you want to run the tutorial, and type ``>> git clone https://github.com/ers-transit/hackathon-2021-day2.git``
     - if you do not have git, click on the green ``Code`` button in the upper right of this page and then click ``Download ZIP``
-2. Activate the ers-transit conda environment using ``conda activate ers-transit``
-3. Open the file S3_wasp43b.ecf and update the three directories at the end of the file (topdir, datadir, and ancildir) to the directories you created in Step 1 of ``Getting Started``.
-4. Open a jupyter notebook by typing ``jupyter notebook`` in your terminal window.
-5. On the screen that opens, click ``hackathon-day2-tutorial.ipynb`` to start.
+2. From your terminal window, navigate to the hackathon-2021-day2 directory.
+3. Activate the ers-transit conda environment using ``conda activate ers-transit``
+4. Open the file S3_wasp43b.ecf and update the three directories at the end of the file (topdir, datadir, and ancildir) to the directories you created in Step 1 of ``Getting Started``.
+5. Open a jupyter notebook by typing ``jupyter notebook`` in your terminal window.
+6. On the screen that opens, click ``hackathon-day2-tutorial.ipynb`` to start.
