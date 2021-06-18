@@ -1,7 +1,7 @@
 # ERS Pre-launch Data Hackathon | Day 2
-This repository contains a tutorial on how to use the Eureka! package to reduce NIRCam data.
+This repository contains a tutorial on how to use the [Eureka!](https://eurekadocs.readthedocs.io/en/latest/) package to reduce NIRCam data.
 
-Eureka! is under development, and currently works on NIRCam data only. If you are interested in contributing to Eureka!, check out the hackathon activities this week or contact Kevin Stevenson, Sebastian Zieba, or Laura Kreidberg. The code is not officially associated with JWST or the ERS team.
+Eureka! will eventually be capable of reducing data from any JWST instrument and fitting lightcurves . At the moment the package is under development, and currently works on NIRCam data only. If you are interested in contributing to Eureka!, check out the hackathon activities this week or contact Kevin Stevenson, Sebastian Zieba, or Laura Kreidberg. The code is not officially associated with JWST or the ERS team.
 
 ## Getting started
 To run the tutorial, you will need simulated NIRCam data and some ancillary files. 
