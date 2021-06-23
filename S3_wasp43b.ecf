@@ -30,6 +30,7 @@ testing_S3  True        #boolean, Set True to produce plots
 
 # Project directory
 topdir      /home/user/
+#topdir      /Users/kreidberg/Desktop/
 
 # Directories relative to project dir
 datadir     /Data/JWST-Sim/NIRCam/stage2/
